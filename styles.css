@@ -1,0 +1,14 @@
+main {
+
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    pointer-events: none;
+}
+
+.okt-gif {
+    width: 50%;
+}
